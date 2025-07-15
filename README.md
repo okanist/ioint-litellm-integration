@@ -1,4 +1,4 @@
-# 🚀 io.net Intelligence + LiteLLM CLI Integration
+# 🚀 IO Intelligence + LiteLLM CLI Integration
 
 This project demonstrates a robust integration of [io.net Intelligence](https://docs.io.net/) as an OpenAI-compatible LLM endpoint using [LiteLLM](https://github.com/BerriAI/litellm).  
 You can fetch the latest available chat models from io.net, select a model interactively, enter any prompt, and get instant responses via the command line.
@@ -112,7 +112,7 @@ For more on io.net’s supported models:
 
 ## License
 
-MIT (or specify your license here)
+MIT
 
 ---
 
